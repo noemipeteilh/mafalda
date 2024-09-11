@@ -11,7 +11,7 @@ class AdviceController:
             AdviceModel.create_advice(genero, edad, conducta, consejo)
 
     @staticmethod
-    def get_advice(id):  # ASEGÚRATE DE QUE ESTE MÉTODO LLAME CORRECTAMENTE A AdviceModel
+    def get_advice(id):
         return AdviceModel.get_advice(id)
 
 
