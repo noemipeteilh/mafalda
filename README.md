@@ -18,7 +18,7 @@ Guidance on children's mental health.
 
 ## Proyecto 
 
-Mafalda is an application that provides guidance on children's mental health. After entering specific parameters, the application filters the data to show relevant advice. This advice helps determine whether a consultation with a professional might be necessary.work, con una base de datos PostgreSQL, mientras que el frontend está planeado para desarrollarse con tecnologías web como React.
+Mafalda es una aplicacion  que provee una orientacion en salud mental infantil . Después de ingresar parámetros específicos, la aplicación filtra los datos para mostrar consejos relevantes. Este consejo ayuda a determinar si podría ser necesaria una consulta con un profesional., con una base de datos PostgreSQL, mientras que el frontend está planeado para desarrollarse con tecnologías web como React.
 
 ### Requisitos previos
 
