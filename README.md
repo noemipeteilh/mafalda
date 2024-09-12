@@ -1,7 +1,5 @@
-# mafalda
+# mafalda ![](/src/logo)
 Guidance on children's mental health.
-
-# Travel Planner :airplane:
 
 ## Índice
 
